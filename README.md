@@ -22,7 +22,8 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+a simle method for arrays :
+["array", "preferrably including numbers:", 3, 5, 1].order => ["array", "preferrably including numbers:", 1, 3, 5]
 
 ## Development
 
